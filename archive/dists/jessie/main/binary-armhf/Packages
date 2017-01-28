@@ -1,0 +1,18 @@
+Package: pocket-home
+Priority: optional
+Section: x11
+Maintainer: The Internet <internet@internet.com>
+Architecture: armhf
+Source: pocket-home
+Version: 0.0.8.9
+Depends: xinput-calibrator
+Filename: pool/main/pocket-home_0.0.8.9-1_armhf.deb
+Size: 1290100
+MD5sum: 07a8be0e69baefba5e5b098bf165e036
+SHA1: 0d8bee9baa6134f71493c3596f55a39572e612b9
+SHA256: a4c1a9f6a5f13c2e89878dd1015841e9d2a7faccc84b71a32644f2cfc4440843
+SHA512: 22e908507e6211bfb8449b4d3e78f1d92c171ade6b429520ccc6b29082bfd3438e331cfdd34699604a2e09e3c47153550c4da30eabeb767c3407eb347a686a58
+Description: Home screen for PocketCHIP.
+ Home screen allowing to launch different kind of applications.
+Homepage: http://opensource.nextthing.co
+
